@@ -1,0 +1,14 @@
+<DOCTYPE html>
+<html>
+<head>
+  <meta charset = "utf-8">
+  <title> First Quiz </title>
+</head>
+
+<body>
+<p> Creating an Element </p>
+<span> This is the first element </span>
+<span> This is the second element </span>
+</body>
+
+<html>
